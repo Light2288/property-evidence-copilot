@@ -10,7 +10,7 @@ Non stiamo valutando il professionista o l'agenzia. Vogliamo capire il processo
 reale, gli strumenti già disponibili, i problemi ricorrenti e il tempo impiegato.
 Le risposte saranno utilizzate per decidere se sviluppare un piccolo prototipo.
 
-Tempo stimato: **30-45 minuti**.
+Tempo stimato: **30 minuti**.
 
 ### Importante: non inserire dati personali o riservati
 
@@ -39,16 +39,6 @@ qualunque momento.
 Chiediamo solo informazioni generali sul ruolo, sul processo e sugli strumenti
 usati. Non chiediamo documenti né dati che possano identificare persone o
 immobili.
-
-Le risposte saranno conservate fuori dal repository del progetto e viste solo
-da chi conduce la ricerca. Nei risultati non saranno riportati nomi, risposte
-grezze o dettagli che permettano di riconoscere facilmente una persona o un
-immobile.
-
-Le risposte saranno cancellate entro 90 giorni dalla decisione se proseguire con
-il progetto e comunque non oltre 12 mesi dalla raccolta. Per correggere o
-ritirare una risposta, contatta chi ti ha consegnato il questionario indicando
-il codice del partecipante.
 
 **Versione e data:** 1.2 - 6 ottobre 2026
 
