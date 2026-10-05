@@ -40,7 +40,9 @@ portal integrations, and deployment are excluded from v0.1.
 
 Verified local package-manager setup:
 
-- pnpm `12.3.4` is installed through Corepack.
+- pnpm `12.8.1` is installed through Corepack and is the approved version for
+  the later scaffold. Pin it in the manifest's `packageManager` field when that
+  scaffold is authorized.
 - The user installed Node.js 24 through nvm and upgraded Corepack to support
   pnpm 12.
 - A shell may still select another nvm Node version; bootstrap must verify

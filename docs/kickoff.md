@@ -10,7 +10,7 @@ below.
 
 - Host: macOS on Apple Silicon.
 - Git repository: existing `main` branch.
-- pnpm `12.3.4` is installed through an updated Corepack after installing
+- pnpm `12.8.1` is installed through an updated Corepack after installing
   Node.js 24 with nvm.
 - Shells may select different nvm versions, so application bootstrap must first
   verify `node --version`, `corepack --version`, and `pnpm --version`.
@@ -193,7 +193,7 @@ results, and provider usage/cost are deterministic fakes in v0.1.
 | Concern | Approved direction |
 |---|---|
 | Application | Next.js App Router with TypeScript |
-| Runtime/package manager | Node.js selected through nvm; Corepack and pnpm `12.3.4` |
+| Runtime/package manager | Node.js selected through nvm; Corepack and pnpm `12.8.1`; pin the exact version in `packageManager` when the scaffold is authorized |
 | UI | Semantic React/HTML and plain project CSS |
 | Validation | Zod |
 | Persistence | SQLite through Prisma |
@@ -591,7 +591,7 @@ deferred to `career-tech-analysis/14-prompt-post-mvp.md`.
 | Provider | Deterministic fake only |
 | Architecture | One Next.js TypeScript application, no separate backend |
 | Persistence | Prisma/SQLite and gitignored local file storage |
-| Package manager | Corepack with pnpm `12.3.4` |
+| Package manager | Corepack with pnpm `12.8.1`; pin the exact version in `packageManager` when the scaffold is authorized |
 | Authentication | Explicit local single-user identity; synthetic-only |
 | Export | Versioned JSON plus printable report; confirmed fields only |
 | Listing description | Excluded |

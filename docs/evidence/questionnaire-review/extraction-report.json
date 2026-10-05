@@ -1,0 +1,34 @@
+{
+  "status": "PARTIAL",
+  "source_root": "/Users/davide/Personal/Projects/property-evidence-copilot/docs/discovery",
+  "output_root": "/Users/davide/Personal/Projects/property-evidence-copilot/docs/evidence/questionnaire-review",
+  "sources": [
+    {
+      "id": "S1",
+      "path": "questionario-validazione.docx",
+      "format": "docx",
+      "status": "COMPLETE",
+      "coverage": "PARTIAL",
+      "method": "OOXML text, table, and media extraction",
+      "normalized": "sources/S1/content.md",
+      "assets": [],
+      "visuals": [],
+      "warnings": [
+        "LibreOffice renderer not found; install LibreOffice for layout rendering",
+        "layout rendering not performed"
+      ]
+    },
+    {
+      "id": "S2",
+      "path": "questionario-validazione.md",
+      "format": "md",
+      "status": "COMPLETE",
+      "coverage": "COMPLETE",
+      "method": "direct text read",
+      "normalized": "sources/S2/content.md",
+      "assets": [],
+      "visuals": [],
+      "warnings": []
+    }
+  ]
+}
